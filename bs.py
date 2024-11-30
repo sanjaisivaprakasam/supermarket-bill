@@ -1,9 +1,3 @@
-# Project Name          : Billing System
-# Made by               : rakesh kumar
-# website               : cbsetoday.com
-# Licence               : MIT ( Licence)
-
-
 import mysql.connector as connector
 from datetime import date
 
